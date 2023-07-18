@@ -1,7 +1,7 @@
 
 # Leitor de PDF - Theo Dirk
 
-Este projeto é um leitor de arquivos PDF que extrai as informções solicitadas no breefing do teste e as retorna no console.
+Este projeto é um leitor de arquivos PDF que extrai as algumas informações contidas em um "extrato" as retorna no console, alem de aplicar testes unitários.
 
 
 
