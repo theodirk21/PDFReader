@@ -1,7 +1,7 @@
 
 # Leitor de PDF - Theo Dirk
 
-Este projeto é um leitor de arquivos PDF que extrai as algumas informações contidas em um "extrato" as retorna no console, alem de aplicar testes unitários.
+Este projeto é um leitor de arquivos PDF que extrai as algumas informações contidas em um "extrato" e retorna para o console, alem de aplicar testes unitários.
 
 
 
